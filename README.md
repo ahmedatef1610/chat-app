@@ -1,2 +1,2 @@
 # chat-app
-https://ama-chat-app.herokuapp.com/
+https://ama-chat-app.up.railway.app/
